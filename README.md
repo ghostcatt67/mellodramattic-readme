@@ -1,6 +1,13 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/3f70b7f49cda0104666abf2667072188/a6dbaf15b51eb1d1-a0/s400x600/3d18b120c13b0be86be282866794a88ea1a7cfee.pnj" width="735">
-  <img src="https://i.pinimg.com/736x/18/5d/e8/185de8e3d73507c41f3c0c638da6df93.jpg" width="850" height="450">
+  <img src="https://64.media.tumblr.com/5c8d5f3f3595c701206283ab0c090d78/166c5edad57cb957-bd/s2048x3072/d86ee436e5461ea536d5168603e8e7aa8ee12229.pnj" width="500"><img src="https://64.media.tumblr.com/5c8d5f3f3595c701206283ab0c090d78/166c5edad57cb957-bd/s2048x3072/d86ee436e5461ea536d5168603e8e7aa8ee12229.pnj" width="500">
+  <img src="https://i.pinimg.com/1200x/2c/f7/dc/2cf7dc5073bfb25a1de0607ac9281240.jpg" width="1000" height="420">
+  <img src="https://64.media.tumblr.com/4b9a176942e80ac7db6bcf2148fe28a0/166c5edad57cb957-77/s2048x3072/fcc4c7b83a49ffdee94a20632da3661161cb5e52.pnj" width="500"><img src="https://64.media.tumblr.com/4b9a176942e80ac7db6bcf2148fe28a0/166c5edad57cb957-77/s2048x3072/fcc4c7b83a49ffdee94a20632da3661161cb5e52.pnj" width="500">
+  <br>
+  <img src="https://64.media.tumblr.com/689184120cb80df0b5adaa117bb63746/e69ada103ddfcdc2-ed/s250x400/2a9c696451b6bdf13b89414775546191bcdea2eb.gifv">
+  <img src="https://gifcity.carrd.co/assets/images/gallery77/607eecfa.png?v=e3c0bc0f" width="150" height="150">
+  <img src="https://gifcity.carrd.co/assets/images/gallery85/b58d148b.png?v=e3c0bc0f" width="90" height="90">
+  <img src="https://gifcity.carrd.co/assets/images/gallery256/8e97de03.gif?v=e3c0bc0f">
+  <img src="https://64.media.tumblr.com/7d1d343bf1a722eaf583690bcbbee9e1/e69ada103ddfcdc2-6a/s100x200/75cadc908b1aa3ea874d26dc87029744fe44fb40.pnj">
   <br>
   <img src="https://64.media.tumblr.com/b8a2b38e67cbb806e22cdbb1af5064e8/65964bf138f6b00c-d2/s2048x3072/ec10b4718c3caeed50d40e45014f6ece8aa3f9e3.pnj">
 </div>
@@ -30,4 +37,15 @@
   <img src="https://i.pinimg.com/474x/53/10/ff/5310ff92066facbd0862cfbe191c64d6.jpg" width="207" height="207">
   <img src="https://64.media.tumblr.com/964406be95c040c5348136425073b706/33a89094012a3b09-27/s2048x3072/bba4e62c936d213c209d104e83f298aebb1dbecb.pnj" width="388" height="388"><img src="https://64.media.tumblr.com/964406be95c040c5348136425073b706/33a89094012a3b09-27/s2048x3072/bba4e62c936d213c209d104e83f298aebb1dbecb.pnj" width="388" height="388">
   <h2>"𝘔𝘢𝘵𝘵... 𝘐 𝘯𝘦𝘷𝘦𝘳 𝘵𝘩𝘰𝘶𝘨𝘩𝘵 𝘺𝘰𝘶'𝘥 𝘣𝘦 𝘬𝘪𝘭𝘭𝘦𝘥...𝘍𝘰𝘳𝘨𝘪𝘷𝘦 𝘮𝘦..." 𝘒𝘦𝘦𝘩𝘭: 1/26/10</h2>
+  <br>
+  <img src="https://adriansblinkiecollection.neocities.org/c24.gif" width="190" height="190">
+  <img src="https://adriansblinkiecollection.neocities.org/c26.gif" width="190" height="190">
+  <img src="https://64.media.tumblr.com/778a131da11a49ad1a1c9c5310d564ad/3fda5e44e12fd176-8e/s250x400/6300e7d6e4ab6a73ff7e21988f6217a4d17289fc.gifv" width="190" height="190">
+  <img src="https://64.media.tumblr.com/5a6a98bc30f4936d127ff19480f9d724/a75b32d2d33f0068-b4/s250x400/d6f19682bdbfb4fb6311f8706b32e4f96652078d.gifv" width="190" height="190">
+  <br>
+  <img src="https://64.media.tumblr.com/775ef01c9ad949a881b15bd5850b58cb/3c7512c789785a26-2a/s100x200/a9ecf5cf9dd30edf65a9fb2ca15a72c4dea3409e.gifv" width="160" height="160">
+  <img src="https://64.media.tumblr.com/8f3aed869e87747e90f768681319c679/e69ada103ddfcdc2-aa/s100x200/7de2e92439f12a3d2298e6b3ce57fc2e89eb5ac2.pnj" width="150" height="150">
+  <img src="https://adriansblinkiecollection.neocities.org/stamps/h7.jpg" width="150" height="150">
+  <img src="https://64.media.tumblr.com/9df14973d32f2d6971925377170e68f0/4134442781197d08-af/s100x200/0855db5557b12b6570b7c9d4aeac04894e9144de.pnj" width="150" height="150">
+  <img src="https://gifcity.carrd.co/assets/images/gallery53/9c47a2ad.gif?v=e3c0bc0f" width="150" height="150">
 </div>
