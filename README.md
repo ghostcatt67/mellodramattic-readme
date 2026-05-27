@@ -4,8 +4,8 @@
   <img src="https://64.media.tumblr.com/4b9a176942e80ac7db6bcf2148fe28a0/166c5edad57cb957-77/s2048x3072/fcc4c7b83a49ffdee94a20632da3661161cb5e52.pnj" width="700">
   <br>
   <img src="https://64.media.tumblr.com/689184120cb80df0b5adaa117bb63746/e69ada103ddfcdc2-ed/s250x400/2a9c696451b6bdf13b89414775546191bcdea2eb.gifv">
-  <img src="https://gifcity.carrd.co/assets/images/gallery77/607eecfa.png?v=e3c0bc0f" width="150" height="150">
-  <img src="https://gifcity.carrd.co/assets/images/gallery85/b58d148b.png?v=e3c0bc0f" width="90" height="90">
+  <img src="https://gifcity.carrd.co/assets/images/gallery77/607eecfa.png?v=e3c0bc0f">
+  <img src="https://gifcity.carrd.co/assets/images/gallery85/b58d148b.png?v=e3c0bc0f">
   <img src="https://gifcity.carrd.co/assets/images/gallery256/8e97de03.gif?v=e3c0bc0f">
   <img src="https://64.media.tumblr.com/7d1d343bf1a722eaf583690bcbbee9e1/e69ada103ddfcdc2-6a/s100x200/75cadc908b1aa3ea874d26dc87029744fe44fb40.pnj">
   <br>
